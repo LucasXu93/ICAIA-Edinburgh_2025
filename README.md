@@ -5,5 +5,4 @@ Repository for TriadVortex planning and notes related to the International Confe
 This repo contains:
 - `agenda.md` — conference programme highlights and TriadVortex involvement
 - `schedule.md` — team schedule, hotel & travel plan
-- `logistics.md` — security & mitigation notes for the delegation
 - `notes/` — (placeholder) for after-action notes and meeting takeaways
