@@ -28,4 +28,4 @@
 - **Lucas:** product liaison / panels / partner meetings — point for product questions  
 - **Maria:** deep technical Q&A, demo validation  
 - **Omar:** demo engineer / hardware & AV lead at booth  
-- **Jessica:** press & scheduling, in-person contact for media
+- **Nicole:** press & scheduling, in-person contact for media
