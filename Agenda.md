@@ -23,10 +23,10 @@
 ---
 
 ## TriadVortex delegation & planned presence
-**Lucas Xu** — Senior Product Manager (attending main sessions, panel interest, and partner meetings)  
-**Maria Chen** — Head of Research (on-site for technical Q&A)  
-**Omar Patel** — Engineering Lead (demo set-up & booth lead)  
-**Jessica Hale** — Head of Communications (press liaison)
+**Lucas** — Senior Product Manager (attending main sessions, panel interest, and partner meetings)  
+**Maria** — Head of Research (on-site for technical Q&A)  
+**Omar** — Engineering Lead (demo set-up & booth lead)  
+**Nicole** — Head of Communications (press liaison)
 
 **Planned TriadVortex activities**
 - Booth / demo participation during poster/demo sessions (Day 2, 13:30–16:30) — booth D12 (TBC)  
